@@ -1,4 +1,6 @@
-weight
+derby.log
+metastore_db/
+weights
 data
 MANIFEST
 build
